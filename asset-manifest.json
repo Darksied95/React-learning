@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/robofriends/static/css/main.63fe584f.chunk.css",
-    "main.js": "/robofriends/static/js/main.e67a89dc.chunk.js",
-    "main.js.map": "/robofriends/static/js/main.e67a89dc.chunk.js.map",
-    "runtime-main.js": "/robofriends/static/js/runtime-main.8a6d0fcd.js",
-    "runtime-main.js.map": "/robofriends/static/js/runtime-main.8a6d0fcd.js.map",
-    "static/css/2.6d7c7915.chunk.css": "/robofriends/static/css/2.6d7c7915.chunk.css",
-    "static/js/2.b9079d13.chunk.js": "/robofriends/static/js/2.b9079d13.chunk.js",
-    "static/js/2.b9079d13.chunk.js.map": "/robofriends/static/js/2.b9079d13.chunk.js.map",
-    "static/js/3.fea0799a.chunk.js": "/robofriends/static/js/3.fea0799a.chunk.js",
-    "static/js/3.fea0799a.chunk.js.map": "/robofriends/static/js/3.fea0799a.chunk.js.map",
-    "index.html": "/robofriends/index.html",
-    "static/css/2.6d7c7915.chunk.css.map": "/robofriends/static/css/2.6d7c7915.chunk.css.map",
-    "static/css/main.63fe584f.chunk.css.map": "/robofriends/static/css/main.63fe584f.chunk.css.map",
-    "static/js/2.b9079d13.chunk.js.LICENSE.txt": "/robofriends/static/js/2.b9079d13.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/robofriends/static/media/SEGA.47b4bfa9.woff"
+    "main.css": "/React-learning/static/css/main.36fe7264.chunk.css",
+    "main.js": "/React-learning/static/js/main.e67a89dc.chunk.js",
+    "main.js.map": "/React-learning/static/js/main.e67a89dc.chunk.js.map",
+    "runtime-main.js": "/React-learning/static/js/runtime-main.b954c426.js",
+    "runtime-main.js.map": "/React-learning/static/js/runtime-main.b954c426.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/React-learning/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.b9079d13.chunk.js": "/React-learning/static/js/2.b9079d13.chunk.js",
+    "static/js/2.b9079d13.chunk.js.map": "/React-learning/static/js/2.b9079d13.chunk.js.map",
+    "static/js/3.fea0799a.chunk.js": "/React-learning/static/js/3.fea0799a.chunk.js",
+    "static/js/3.fea0799a.chunk.js.map": "/React-learning/static/js/3.fea0799a.chunk.js.map",
+    "index.html": "/React-learning/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/React-learning/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.36fe7264.chunk.css.map": "/React-learning/static/css/main.36fe7264.chunk.css.map",
+    "static/js/2.b9079d13.chunk.js.LICENSE.txt": "/React-learning/static/js/2.b9079d13.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/React-learning/static/media/SEGA.47b4bfa9.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.8a6d0fcd.js",
+    "static/js/runtime-main.b954c426.js",
     "static/css/2.6d7c7915.chunk.css",
     "static/js/2.b9079d13.chunk.js",
-    "static/css/main.63fe584f.chunk.css",
+    "static/css/main.36fe7264.chunk.css",
     "static/js/main.e67a89dc.chunk.js"
   ]
 }
